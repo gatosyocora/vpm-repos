@@ -1,4 +1,4 @@
-# install
+# How to Install
 
 ## English
 
