@@ -1,2 +1,2 @@
 # vpm-repos
- gatosyocora's vpm repositories
+ gatosyocora's vpm repository
