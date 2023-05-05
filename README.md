@@ -6,7 +6,9 @@
 
 Add repository to VCC with this repository URL.
 
-`https://vpm.gatosyocora.net/index.json`
+```
+https://vpm.gatosyocora.net/index.json
+```
 
 Please refer to the [Official Document](https://vcc.docs.vrchat.com/guides/community-repositories#how-to-add-a-community-repository) for more details.
 
@@ -14,7 +16,9 @@ Please refer to the [Official Document](https://vcc.docs.vrchat.com/guides/commu
 
 If use VPM CLI, execute this command.
 
-`vpm add repo https://vpm.gatosyocora.net/index.json`
+```
+vpm add repo https://vpm.gatosyocora.net/index.json
+```
 
 ## 日本語
 
@@ -22,7 +26,9 @@ If use VPM CLI, execute this command.
 
 このリポジトリのURLを使用してVCCにリポジトリを追加してください
 
-`https://vpm.gatosyocora.net/index.json`
+```
+https://vpm.gatosyocora.net/index.json
+```
 
 詳しくは[公式ドキュメント](https://vcc.docs.vrchat.com/guides/community-repositories#how-to-add-a-community-repository)を参照してください
 
@@ -30,4 +36,6 @@ If use VPM CLI, execute this command.
 
 VPM CLIを使用する場合は以下のコマンドを実行してください
 
-`vpm add repo https://vpm.gatosyocora.net/index.json`
+```
+vpm add repo https://vpm.gatosyocora.net/index.json
+```
