@@ -39,3 +39,7 @@ VPM CLIを使用する場合は以下のコマンドを実行してください
 ```
 vpm add repo https://vpm.gatosyocora.net/index.json
 ```
+
+# Packages
+
+- [MeshDeleterWithTexture](https://github.com/gatosyocora/MeshDeleterWithTexture)
