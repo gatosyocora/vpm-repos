@@ -1,7 +1,7 @@
 {
     "name": "gatosyocora's vpm repository",
     "author": "gatosyocora",
-    "url": "https://vpm.gatosyocora.net/repos.json",
+    "url": "https://vpm.gatosyocora.net/index.json",
     "id": "net.gatosyocora.vpm",
     "packages": {
       "net.gatosyocora.meshdeleterwithtexture": {
