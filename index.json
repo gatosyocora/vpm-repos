@@ -27,6 +27,192 @@
             "url": "https://github.com/gatosyocora/MeshDeleterWithTexture/releases/download/v0.10.5/MeshDeleterWithTexture_v0.10.5.zip"
           }
         }
+      },
+      "net.gatosyocora.vrcavatars3tools.bom": {
+        "versions": {
+          "1.0.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.bom",
+            "displayName": "VRCAvatars3Tools",
+            "version": "1.0.0",
+            "description": "Unity Editor extensions for VRChat Avatars3.0",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "net.gatosyocora.vrcavatars3tools.animatorbindingseparater": "1.1.0",
+              "net.gatosyocora.vrcavatars3tools.animatorcontrollercombiner": "1.2.0",
+              "net.gatosyocora.vrcavatars3tools.expressionparameterscombiner": "1.1.0",
+              "net.gatosyocora.vrcavatars3tools.vrcassetcreator": "1.2.0",
+              "net.gatosyocora.vrcavatars3tools.vrcavatarconverterto3": "1.4.0"
+            },
+            "legacyFolders": {},
+            "legacyFiles": {},
+            "url": ""
+          }
+        }
+      },
+      "net.gatosyocora.vrcavatars3tools.animatorbindingseparater": {
+        "versions": {
+          "1.1.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.animatorbindingseparater",
+            "displayName": "AnimatorBindingSeparater",
+            "version": "1.1.0",
+            "description": "Unity Editor Extension for dividing AnimationClip into animation keys changed Transform and others",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars" : "3.1.6"
+            },
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools\\AnimatorBindingSeparater" : "f5b360238e54c4344bd44c4671f33c10"
+            },
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/animationbindingseparator-1.1.0/net.gatosyocora.vrcavatars3tools.animationbindingseparator-1.1.0.zip"
+          }
+        }
+      },
+      "net.gatosyocora.vrcavatars3tools.animatorcontrollercombiner": {
+        "versions": {
+          "1.2.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.animatorcontrollercombiner",
+            "displayName": "AnimatorControllerCombiner",
+            "version": "1.2.0",
+            "description": "Unity Editor Extension for combine AnimationClip",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars" : "3.1.6",
+              "net.gatosyocora.vrcavatars3tools.utilities" : "1.0.0"
+            },
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools\\AnimatorControllerCombiner" : "f13b587839a4d5c439be7d49b649e419"
+            },
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/animatorcontrollercombiner-1.2.0/net.gatosyocora.vrcavatars3tools.animatorcontrollercombiner-1.2.0.zip"
+          }
+        }
+      },
+      "net.gatosyocora.vrcavatars3tools.expressionparameterscombiner": {
+        "versions": {
+          "1.1.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.expressionparameterscombiner",
+            "displayName": "ExpressionParametersCombiner",
+            "version": "1.1.0",
+            "description": "Unity Editor Extension for combining Expression Parameters",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars" : "3.1.6"
+            },
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools\\ExpressionParametersCombiner" : "151252fe1d2d05843b2caf25c99f3a3f"
+            },
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/expressionparameterscombiner-1.1.0/net.gatosyocora.vrcavatars3tools.expressionparameterscombiner-1.1.0.zip"
+          }
+        }
+      },
+      "net.gatosyocora.vrcavatars3tools.utilities": {
+        "versions": {
+          "1.0.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.utilities",
+            "displayName": "VRCAvatars3Tools Utilities",
+            "version": "1.0.0",
+            "description": "Utilities for VRCAvatars3Tools",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars" : "3.1.6"
+            },
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools\\Utilitiys" : "f14bc625eff39e443b22fddde23723d5"
+            },
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/utilities-1.0.0/net.gatosyocora.vrcavatars3tools.utilities-1.0.0.zip"
+          }
+        }
+      },
+      "net.gatosyocora.vrcavatars3tools.vrcassetcreator": {
+        "versions": {
+          "1.2.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.vrcassetcreator",
+            "displayName": "VRCAssetCreator",
+            "version": "1.2.0",
+            "description": "Unity Editor Extension for creating Avatars3.0 Assets",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars" : "3.1.6",
+              "net.gatosyocora.vrcavatars3tools.utilities" : "1.0.0"
+            },
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools\\VRCAssetCreator" : "f9d97317d86f75a4392f4ba8f45a34de"
+            },
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/vrcassetcreator-1.2.0/net.gatosyocora.vrcavatars3tools.vrcassetcreator-1.2.0.zip"
+          }
+        }
+      },
+      "net.gatosyocora.vrcavatars3tools.vrcavatarconverterto3": {
+        "versions": {
+          "1.4.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.vrcavatarconverterto3",
+            "displayName": "VRCAvatarConverterTo3",
+            "version": "1.4.0",
+            "description": "Unity Editor Extension for converting VRChat Avatars2.0 avatar to Avatars3.0 avatar",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars" : "3.1.6",
+              "net.gatosyocora.vrcavatars3tools.utilities" : "1.0.0"
+            },
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools\\VRCAvatarConverterTo3" : "e8d38ffc3ebc4444685a8a2645c5d28f"
+            },
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/vrcavatarconverterto3-1.4.0/net.gatosyocora.vrcavatars3tools.vrcavatarconverterto3-1.4.0.zip"
+          }
+        }
       }
     }
   }
