@@ -43,6 +43,7 @@
             "dependencies": {},
             "gitDependencies": {},
             "vpmDependencies": {
+              "com.vrchat.avatars" : "3.1.x",
               "net.gatosyocora.vrcavatars3tools.animatorbindingseparater": "1.1.0",
               "net.gatosyocora.vrcavatars3tools.animatorcontrollercombiner": "1.2.0",
               "net.gatosyocora.vrcavatars3tools.expressionparameterscombiner": "1.1.0",
@@ -71,7 +72,7 @@
             "dependencies": {},
             "gitDependencies": {},
             "vpmDependencies": {
-              "com.vrchat.avatars" : "3.1.6"
+              "com.vrchat.avatars" : "3.1.x"
             },
             "legacyFolders": {
               "Assets\\VRCAvatars3Tools\\AnimatorBindingSeparater" : "f5b360238e54c4344bd44c4671f33c10"
@@ -97,7 +98,7 @@
             "dependencies": {},
             "gitDependencies": {},
             "vpmDependencies": {
-              "com.vrchat.avatars" : "3.1.6",
+              "com.vrchat.avatars" : "3.1.x",
               "net.gatosyocora.vrcavatars3tools.utilities" : "1.0.0"
             },
             "legacyFolders": {
@@ -124,7 +125,7 @@
             "dependencies": {},
             "gitDependencies": {},
             "vpmDependencies": {
-              "com.vrchat.avatars" : "3.1.6"
+              "com.vrchat.avatars" : "3.1.x"
             },
             "legacyFolders": {
               "Assets\\VRCAvatars3Tools\\ExpressionParametersCombiner" : "151252fe1d2d05843b2caf25c99f3a3f"
@@ -150,7 +151,7 @@
             "dependencies": {},
             "gitDependencies": {},
             "vpmDependencies": {
-              "com.vrchat.avatars" : "3.1.6"
+              "com.vrchat.avatars" : "3.1.x"
             },
             "legacyFolders": {
               "Assets\\VRCAvatars3Tools\\Utilitiys" : "f14bc625eff39e443b22fddde23723d5"
@@ -176,7 +177,7 @@
             "dependencies": {},
             "gitDependencies": {},
             "vpmDependencies": {
-              "com.vrchat.avatars" : "3.1.6",
+              "com.vrchat.avatars" : "3.1.x",
               "net.gatosyocora.vrcavatars3tools.utilities" : "1.0.0"
             },
             "legacyFolders": {
@@ -203,7 +204,7 @@
             "dependencies": {},
             "gitDependencies": {},
             "vpmDependencies": {
-              "com.vrchat.avatars" : "3.1.6",
+              "com.vrchat.avatars" : "3.1.x",
               "net.gatosyocora.vrcavatars3tools.utilities" : "1.0.0"
             },
             "legacyFolders": {
