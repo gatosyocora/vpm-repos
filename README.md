@@ -4,7 +4,7 @@
 
 ### Creator Companion
 
-Add repository to VCC with this repository URL.
+Add repository to VCC with click [this](vcc://vpm/addRepo?url=https://vpm.gatosyocora.net/index.json) or use this repository URL.
 
 ```
 https://vpm.gatosyocora.net/index.json
@@ -24,7 +24,7 @@ vpm add repo https://vpm.gatosyocora.net/index.json
 
 ### Creator Companion
 
-このリポジトリのURLを使用してVCCにリポジトリを追加してください
+[こちら](vcc://vpm/addRepo?url=https://vpm.gatosyocora.net/index.json)を押すか、以下のURLをコピーしてVCCにリポジトリを追加してください
 
 ```
 https://vpm.gatosyocora.net/index.json
