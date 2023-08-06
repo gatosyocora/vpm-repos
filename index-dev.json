@@ -28,6 +28,30 @@
           }
         }
       },
+      "net.gatosyocora.meshdeleterwithtexture": {
+        "versions": {
+          "0.1.0": {
+            "name": "net.gatosyocora.exmenupreviewer",
+            "displayName": "ExMenuPreviewer",
+            "version": "0.1.0",
+            "description": "Preview Tool Of VRChat Expression Menu in Unity",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.2.2"
+            },
+            "legacyFolders": {},
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/ExMenuPreviewer/releases/download/0.1.0/net.gatosyocora.exmenupreviewer-v0.1.0.zip"
+          }
+        }
+      },
       "net.gatosyocora.vrcavatars3tools.bom": {
         "versions": {
           "1.0.0": {
