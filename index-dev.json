@@ -43,14 +43,12 @@
             "dependencies": {},
             "gitDependencies": {},
             "vpmDependencies": {
-              "com.vrchat.avatars" : ">=3.1.0",
-              "net.gatosyocora.vrcavatars3tools.animatorbindingseparater": "1.1.0",
-              "net.gatosyocora.vrcavatars3tools.animatorcontrollercombiner": "1.2.0",
-              "net.gatosyocora.vrcavatars3tools.expressionparameterscombiner": "1.1.0",
-              "net.gatosyocora.vrcavatars3tools.vrcassetcreator": "1.2.0",
-              "net.gatosyocora.vrcavatars3tools.vrcavatarconverterto3": "1.4.0"
+              "com.vrchat.avatars" : ">=3.5.0",
+              "net.gatosyocora.vrcavatars3tools.animatorbindingseparater": "1.2.0"
             },
-            "legacyFolders": {},
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools": "304f63f4e8ed67141a630d8b35a7c6f1"
+            },
             "legacyFiles": {},
             "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/bom-1.0.0/net.gatosyocora.vrcavatars3tools.bom-1.0.0.zip"
           }
@@ -58,10 +56,10 @@
       },
       "net.gatosyocora.vrcavatars3tools.animatorbindingseparater": {
         "versions": {
-          "1.1.0": {
+          "1.2.0": {
             "name": "net.gatosyocora.vrcavatars3tools.animatorbindingseparater",
             "displayName": "AnimatorBindingSeparater",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "description": "Unity Editor Extension for dividing AnimationClip into animation keys changed Transform and others",
             "license": "MIT",
             "author": {
@@ -72,13 +70,13 @@
             "dependencies": {},
             "gitDependencies": {},
             "vpmDependencies": {
-              "com.vrchat.avatars" : ">=3.1.0"
+              "com.vrchat.avatars" : ">=3.5.0"
             },
             "legacyFolders": {
               "Assets\\VRCAvatars3Tools\\AnimatorBindingSeparater" : "f5b360238e54c4344bd44c4671f33c10"
             },
             "legacyFiles": {},
-            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/animationbindingseparator-1.1.0/net.gatosyocora.vrcavatars3tools.animationbindingseparator-1.1.0.zip"
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/animationbindingseparator-1.2.0/net.gatosyocora.vrcavatars3tools.animationbindingseparator-1.2.0.zip"
           }
         }
       },
