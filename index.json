@@ -94,6 +94,138 @@
             "url": "https://github.com/gatosyocora/VRCAvatarEditor/releases/download/v0.7.0/net.gatosyocora.vrcavatareditor-v0.7.0.zip"
           }
         }
+      },
+      "net.gatosyocora.vrcavatars3tools.animationbindingseparater": {
+        "versions": {
+          "1.2.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.animationbindingseparater",
+            "displayName": "AnimationBindingSeparater",
+            "version": "1.2.0",
+            "description": "Unity Editor Extension for dividing AnimationClip into animation keys changed Transform and others",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars" : ">=3.5.0"
+            },
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools\\AnimationBindingSeparater" : "f5b360238e54c4344bd44c4671f33c10"
+            },
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/animationbindingseparator-1.2.0/net.gatosyocora.vrcavatars3tools.animationbindingseparator-1.2.0.zip"
+          }
+        }
+      },
+      "net.gatosyocora.vrcavatars3tools.animatorcontrollercombiner": {
+        "versions": {
+          "1.2.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.animatorcontrollercombiner",
+            "displayName": "AnimatorControllerCombiner",
+            "version": "1.2.0",
+            "description": "Unity Editor Extension for combine AnimationClip",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars" : ">=3.1.0",
+              "net.gatosyocora.vrcavatars3tools.utilities" : "1.0.0"
+            },
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools\\AnimatorControllerCombiner" : "f13b587839a4d5c439be7d49b649e419"
+            },
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/animatorcontrollercombiner-1.2.0/net.gatosyocora.vrcavatars3tools.animatorcontrollercombiner-1.2.0.zip"
+          }
+        }
+      },
+      "net.gatosyocora.vrcavatars3tools.expressionparameterscombiner": {
+        "versions": {
+          "1.1.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.expressionparameterscombiner",
+            "displayName": "ExpressionParametersCombiner",
+            "version": "1.1.0",
+            "description": "Unity Editor Extension for combining Expression Parameters",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars" : ">=3.1.0"
+            },
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools\\ExpressionParametersCombiner" : "151252fe1d2d05843b2caf25c99f3a3f"
+            },
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/expressionparameterscombiner-1.1.0/net.gatosyocora.vrcavatars3tools.expressionparameterscombiner-1.1.0.zip"
+          }
+        }
+      },
+      "net.gatosyocora.vrcavatars3tools.utilities": {
+        "versions": {
+          "1.0.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.utilities",
+            "displayName": "VRCAvatars3Tools Utilities",
+            "version": "1.0.0",
+            "description": "Utilities for VRCAvatars3Tools",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars" : ">=3.1.0"
+            },
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools\\Utilitiys" : "f14bc625eff39e443b22fddde23723d5"
+            },
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/utilities-1.0.0/net.gatosyocora.vrcavatars3tools.utilities-1.0.0.zip"
+          }
+        }
+      },
+      "net.gatosyocora.vrcavatars3tools.vrcassetcreator": {
+        "versions": {
+          "1.2.0": {
+            "name": "net.gatosyocora.vrcavatars3tools.vrcassetcreator",
+            "displayName": "VRCAssetCreator",
+            "version": "1.2.0",
+            "description": "Unity Editor Extension for creating Avatars3.0 Assets",
+            "license": "MIT",
+            "author": {
+              "name": "gatosyocora",
+              "email": "gatosyocora36@gmail.com",
+              "url": "https://github.com/gatosyocora"
+            },
+            "dependencies": {},
+            "gitDependencies": {},
+            "vpmDependencies": {
+              "com.vrchat.avatars" : ">=3.1.0",
+              "net.gatosyocora.vrcavatars3tools.utilities" : "1.0.0"
+            },
+            "legacyFolders": {
+              "Assets\\VRCAvatars3Tools\\VRCAssetCreator" : "f9d97317d86f75a4392f4ba8f45a34de"
+            },
+            "legacyFiles": {},
+            "url": "https://github.com/gatosyocora/VRCAvatars3Tools/releases/download/vrcassetcreator-1.2.0/net.gatosyocora.vrcavatars3tools.vrcassetcreator-1.2.0.zip"
+          }
+        }
       }
     }
   }
